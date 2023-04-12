@@ -1,0 +1,87 @@
+/* Start Font Style here */
+.font-inter{
+    font-family: 'Inter', sans-serif;
+}
+
+.font-joti-one{
+    font-family: 'Joti One', cursive;
+}
+
+.font-ltim{
+    font-family: 'Itim', cursive;
+}
+/* End Font Style here */
+
+/* Start Text and background color here */
+.text-green-grey{
+    color: #7C7D72 !important;
+}
+
+.text-light-white{
+    color: #E4DFD3 !important;
+}
+
+.text-light-pink{
+    color: #E9D5C2 !important;
+}
+
+.text-light-green{
+    color: #E1E6B7 !important;
+}
+.text-light-brown{
+    color: #785959 !important;
+}
+
+.text-dark-brown{
+    color: #6D5050 !important;
+}
+
+.text-dark-green{
+    color:#626355 !important;
+}
+
+.text-brown{
+    color:#9E6735 !important;
+}
+
+.bg-green-grey{
+    background-color: #7C7D72 !important; 
+}
+
+.bg-light-white{
+    background-color: #E4DFD3 !important;
+}
+
+.bg-light-pink{
+    background-color: #E9D5C2 !important;
+}
+
+.bg-light-green{
+    background-color: #E1E6B7 !important;
+}
+
+.bg-light-grey{
+    background-color: #A9A8A3 !important;
+}
+.bg-dark-brown{
+    background-color: #6D5050 !important;
+}
+/* End Text and background color here */
+
+.border-radius-10{
+    border-radius: 15px !important;
+}
+
+
+/* Start Background image */
+.home-background-image{
+    background-image: url('../img/home-page-bg.png');
+    background-size: contain;
+}
+/* End Background image */
+
+
+/* Opticity */
+.op-8{
+    opacity: .8;
+}
